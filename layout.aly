@@ -1,0 +1,18 @@
+{
+  LinearLayout;
+  background="background.png";
+  layout_height="fill";
+  layout_width="fill";
+  orientation="vertical";
+  gravity="center";
+  {
+    Button;
+    layout_marginTop="80dp";
+    layout_width="wrap";
+    layout_height="wrap";
+    text="Hello from Online Loaded ALP!";
+    id="helloBtn";
+    layout_gravity="center";
+    gravity="center";
+  };
+};
